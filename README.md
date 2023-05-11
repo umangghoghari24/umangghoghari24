@@ -1,21 +1,58 @@
-<h1 align="center">Hi 👋, I'm Umang Ghogahri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=Umang+Ghoghari&fontSize=35&fontColor=white&animation=twinkling&fontAlignY=35" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umangghoghari24&label=Profile%20views&color=0e75b6&style=flat" alt="umangghoghari24" /> </p>
+<!--
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangghoghari24" alt="umangghoghari24" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Here are some ideas to get you started:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Hello%2C+everyone!;My+name+is+Umang+Ghoghari;I'm+20+years+old;I+live+in+Surat+Gujarat;Be+welcome!)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangghoghari24&show_icons=true&locale=en&layout=compact" alt="umangghoghari24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umangghoghari24&show_icons=true&locale=en" alt="umangghoghari24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangghoghari24&" alt="umangghoghari24" /></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Thechnical+Skills)](https://git.io/typing-svg)
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=flutter,c,cpp,html,git,github,androidstudio,vscode" /><br>
+  </div>
+<br/><br/>
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Where+to+find+me)](https://git.io/typing-svg)
+ 
+[<img src="https://img.shields.io/badge/instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/mr.ghoghariumang24)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/--55bb871a3)
+[<img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/)
+
+
+ 
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=umangghoghari24&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=lightblue" alt=" Vitor Hugo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangghoghari24&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=lightblue" />
+</div>
+   <br>
+   <div align="center">
+     <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=umangghoghari24&background=&color=white&icon_color=white&hide_border=true"  alt=" Vitor Hugo github stats"/>
+  
+   
+<br>
+  <br>
+  
+<div align="center">
+<p><b>Visitor Count</b></p>
+<p><img src="https://profile-counter.glitch.me/{umangghoghari24}/count.svg" /></p>  
+
+</div>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" />
