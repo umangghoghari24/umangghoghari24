@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Thechnical+Skills)](https://git.io/typing-svg)
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=flutter,c,cpp,html,git,github,androidstudio,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=,c,cpp,html,flutter,androidstudio,vscode,git,github," /><br>
   </div>
 <br/><br/>
 
