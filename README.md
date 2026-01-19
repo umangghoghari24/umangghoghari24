@@ -50,9 +50,9 @@ Here are some ideas to get you started:
   <br>
   
 <div align="center">
-<p><b>Visitor Count</b></p>
-<p><img src="https://profile-counter.glitch.me/{umangghoghari24}/count.svg" /></p>  
-
-</div>  
+  <p><b>Visitor Count</b></p>
+  <img src="https://komarev.com/ghpvc/?username=umangghoghari24&label=Profile%20views&color=1E90FF&style=for-the-badge" />
+</div>
+ 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" />
